@@ -11,7 +11,7 @@
 
 ## This forked repo is for Vue 2
 
-You are looking at the repository for Vue 2. The repo for Vue 3 is [vuejs/core](https://github.com/vuejs/core).
+You are looking at the repository for Vue 2. The repo for Vue3 is [vuejs/core](https://github.com/vuejs/core).
 
 ## Sponsors
 
